@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-11T15:34:05.000Z</updated>
+  <updated>2017-09-11T15:37:42.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/09/11/new%20day/"/>
     <id>http://yoursite.com/2017/09/11/new day/</id>
     <published>2017-09-11T01:00:00.000Z</published>
-    <updated>2017-09-11T15:34:05.000Z</updated>
+    <updated>2017-09-11T15:37:42.000Z</updated>
     
     <content type="html"><![CDATA[<p>☀️<br>
 今天特别干燥！<br>
@@ -63,15 +63,15 @@
 具体的感受还是日后专门写一篇吧</p>
 <p>最后，贴几张图吧<br>
 洁癖患者日常：<br>
-![“lemon”](/images/new day/WechatIMG26.jpeg)<br>
+<img src="/images/newday/WechatIMG26.jpeg" alt="“lemon”"><br>
 肉夹馍～<br>
-![“lemon”](/images/new day/WechatIMG24.jpeg)<br>
-![“lemon”](/images/new day/WechatIMG25.jpeg)<br>
+<img src="/images/newday/WechatIMG24.jpeg" alt="“lemon”"><br>
+<img src="/images/newday/WechatIMG25.jpeg" alt="“lemon”"><br>
 乱吃<br>
-![“lemon”](/images/new day/WechatIMG21.jpeg)<br>
+<img src="/images/newday/WechatIMG21.jpeg" alt="“lemon”"><br>
 傍晚🌆<br>
-![“lemon”](/images/new day/WechatIMG22.jpeg)<br>
-![“lemon”](/images/new day/WechatIMG23.jpeg)</p>
+<img src="/images/newday/WechatIMG22.jpeg" alt="“lemon”"><br>
+<img src="/images/newday/WechatIMG23.jpeg" alt="“lemon”"></p>
 <hr>
 <p>总之，珍惜现在<br>
 还拥有一些小小梦想的自己<br>
