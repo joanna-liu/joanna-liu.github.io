@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/10/29/three%20life/</loc>
+    
+    <lastmod>2017-10-29T16:00:45.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2017/10/11/1992%E5%89%AF%E6%9C%AC/</loc>
     
     <lastmod>2017-10-11T01:53:17.000Z</lastmod>
