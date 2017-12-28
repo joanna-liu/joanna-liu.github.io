@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-22T16:00:54.000Z</updated>
+  <updated>2017-12-28T02:16:20.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,54 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Money</title>
+    <link href="http://yoursite.com/2017/12/27/%E4%B8%80%E5%A4%A9/"/>
+    <id>http://yoursite.com/2017/12/27/一天/</id>
+    <published>2017-12-27T15:00:00.000Z</published>
+    <updated>2017-12-28T02:16:20.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>到底什么才是永恒的<br>
+也许只有苍穹上的星星吧</p>
+<a id="more"></a>
+<hr>
+<p>为什么人会这么的脆弱<br>
+想要的东西<br>
+拼命的要拿到<br>
+拿到之后<br>
+拼命的守护</p>
+<p>是的，什么都要拿命来换<br>
+人<br>
+就是从无到有<br>
+再到无的蜡炬成灰<br>
+意志无法克服衰老<br>
+衰老是一件悲伤悲伤只有悲伤的事情</p>
+<p>不再年轻<br>
+不再美丽<br>
+不再肆意<br>
+不再追求<br>
+不再渴望</p>
+<p>一切都越来越扎根于地上<br>
+与苍穹远离<br>
+也忘记了曾经着迷的星空</p>
+<p>生存是为了躯体<br>
+躯体供养着意识<br>
+那么意识<br>
+为何存在</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;到底什么才是永恒的&lt;br&gt;
+也许只有苍穹上的星星吧&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="talks" scheme="http://yoursite.com/tags/talks/"/>
+    
+  </entry>
   
   <entry>
     <title>更博一篇</title>
