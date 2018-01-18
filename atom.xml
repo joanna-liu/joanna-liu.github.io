@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-01-09T03:11:11.000Z</updated>
+  <updated>2018-01-18T15:38:11.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Forever young</title>
+    <link href="http://yoursite.com/2018/01/18/forever%20young/"/>
+    <id>http://yoursite.com/2018/01/18/forever young/</id>
+    <published>2018-01-18T15:00:00.000Z</published>
+    <updated>2018-01-18T15:38:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>真实</p>
+<a id="more"></a>
+<hr>
+<p>没有别的，<br>
+只想告诉自己</p>
+<p>爱你所爱<br>
+无所畏惧</p>
+<p>纵使沧海一栗<br>
+也要像一朵太阳花<br>
+不那么夺目<br>
+但温暖又美好</p>
+<p>不负此生！</p>
+<blockquote>
+<p>“某日（1924年），我偶然去图书馆，听到泰戈尔的演讲，而陪同在泰戈尔身边的人，是当时最卓越的一群人（即梁启超、梅贻琦、王国维、梁思成、林徽因、徐志摩……），这些人站在那里，自信而笃定，那种从容让我十分羡慕。而泰戈尔，正在讲’对自己的真实’有多么重要，那一刻，我从思索生命意义的羞耻感中释放出来。原来这些卓越的人物，也认为花时间思考这些谈论这些是重要的。今天，我把泰戈尔的诗介绍给你们，希望你们在今后的岁月里，不要放弃对生命的思索，对自己的真实。”</p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;真实&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="talks" scheme="http://yoursite.com/tags/talks/"/>
+    
+  </entry>
   
   <entry>
     <title>吸奶气的每天</title>
